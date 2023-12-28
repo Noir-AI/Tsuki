@@ -166,6 +166,21 @@
       "path": "/"
     },
     {
+      "remarks": "Multacom",
+      "country": "ID",
+      "flag": "🇮🇩",
+      "address": "beacon.liveon.id",
+      "port": 443,
+      "uuid": "37c56150-20e1-4090-815e-6733ed1813e7",
+      "encryption": "none",
+      "security": "tls",
+      "fp": "random",
+      "type": "ws",
+      "host": "idx4.pages.dev",
+      "sni": "idx4.pages.dev",
+      "path": "/"
+    },
+    {
       "remarks": "Microsoft Azure",
       "country": "JP",
       "flag": "🇯🇵",
