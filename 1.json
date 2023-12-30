@@ -61,6 +61,21 @@
       "path": "/"
     },
     {
+      "remarks": "Digital Ocean",
+      "country": "SG",
+      "flag": "🇸🇬",
+      "address": "beacon.liveon.id",
+      "port": 443,
+      "uuid": "37c56150-20e1-4090-815e-6733ed1813e7",
+      "encryption": "none",
+      "security": "tls",
+      "fp": "random",
+      "type": "ws",
+      "host": "sgx10.pages.dev",
+      "sni": "sgx10.pages.dev",
+      "path": "/"
+    },
+    {
       "remarks": "BELNET",
       "country": "SG",
       "flag": "🇸🇬",
