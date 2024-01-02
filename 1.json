@@ -211,6 +211,21 @@
       "path": "/"
     },
     {
+      "remarks": "Incapsula",
+      "country": "ID",
+      "flag": "🇮🇩",
+      "address": "beacon.liveon.id",
+      "port": 443,
+      "uuid": "37c56150-20e1-4090-815e-6733ed1813e7",
+      "encryption": "none",
+      "security": "tls",
+      "fp": "random",
+      "type": "ws",
+      "host": "idx3.pages.dev",
+      "sni": "idx3.pages.dev",
+      "path": "/"
+    },
+    {
       "remarks": "Multacom",
       "country": "ID",
       "flag": "🇮🇩",
