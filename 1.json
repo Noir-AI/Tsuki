@@ -1,6 +1,21 @@
 {
   "cfvless": [
     {
+      "remarks": "Random",
+      "country": "SG",
+      "flag": "🇸🇬",
+      "address": "beacon.liveon.id",
+      "port": 443,
+      "uuid": "6766d5e4-7f29-459b-9b5e-c9688b352366",
+      "encryption": "none",
+      "security": "tls",
+      "fp": "random",
+      "type": "ws",
+      "host": "sg.fless.workers.dev",
+      "sni": "sg.fless.workers.dev",
+      "path": "/"
+    },
+    {
       "remarks": "Microsoft Azure",
       "country": "SG",
       "flag": "🇸🇬",
@@ -181,6 +196,21 @@
       "path": "/"
     },
     {
+      "remarks": "Random",
+      "country": "ID",
+      "flag": "🇮🇩",
+      "address": "beacon.liveon.id",
+      "port": 443,
+      "uuid": "6766d5e4-7f29-459b-9b5e-c9688b352366",
+      "encryption": "none",
+      "security": "tls",
+      "fp": "random",
+      "type": "ws",
+      "host": "id.fless.workers.dev",
+      "sni": "id.fless.workers.dev",
+      "path": "/"
+    },
+    {
       "remarks": "Google Cloud",
       "country": "ID",
       "flag": "🇮🇩",
@@ -238,6 +268,21 @@
       "type": "ws",
       "host": "idx4.pages.dev",
       "sni": "idx4.pages.dev",
+      "path": "/"
+    },
+    {
+      "remarks": "Random",
+      "country": "JP",
+      "flag": "🇯🇵",
+      "address": "beacon.liveon.id",
+      "port": 443,
+      "uuid": "6766d5e4-7f29-459b-9b5e-c9688b352366",
+      "encryption": "none",
+      "security": "tls",
+      "fp": "random",
+      "type": "ws",
+      "host": "jp.fless.workers.dev",
+      "sni": "jp.fless.workers.dev",
       "path": "/"
     },
     {
@@ -403,6 +448,21 @@
       "type": "ws",
       "host": "jpx21.pages.dev",
       "sni": "jpx21.pages.dev",
+      "path": "/"
+    },
+    {
+      "remarks": "Random",
+      "country": "KR",
+      "flag": "🇰🇷",
+      "address": "beacon.liveon.id",
+      "port": 443,
+      "uuid": "6766d5e4-7f29-459b-9b5e-c9688b352366",
+      "encryption": "none",
+      "security": "tls",
+      "fp": "random",
+      "type": "ws",
+      "host": "jp.fless.workers.dev",
+      "sni": "jp.fless.workers.dev",
       "path": "/"
     },
     {
