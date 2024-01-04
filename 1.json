@@ -461,8 +461,8 @@
       "security": "tls",
       "fp": "random",
       "type": "ws",
-      "host": "jp.fless.workers.dev",
-      "sni": "jp.fless.workers.dev",
+      "host": "kr.fless.workers.dev",
+      "sni": "kr.fless.workers.dev",
       "path": "/"
     },
     {
