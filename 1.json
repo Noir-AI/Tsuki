@@ -11,8 +11,8 @@
       "security": "tls",
       "fp": "random",
       "type": "ws",
-      "host": "sg.fless.workers.dev",
-      "sni": "sg.fless.workers.dev",
+      "host": "sg.fless.pages.dev",
+      "sni": "sg.fless.pages.dev",
       "path": "/"
     },
     {
@@ -206,8 +206,8 @@
       "security": "tls",
       "fp": "random",
       "type": "ws",
-      "host": "id.fless.workers.dev",
-      "sni": "id.fless.workers.dev",
+      "host": "id.fless.pages.dev",
+      "sni": "id.fless.pages.dev",
       "path": "/"
     },
     {
@@ -281,8 +281,8 @@
       "security": "tls",
       "fp": "random",
       "type": "ws",
-      "host": "jp.fless.workers.dev",
-      "sni": "jp.fless.workers.dev",
+      "host": "jp.fless.pages.dev",
+      "sni": "jp.fless.pages.dev",
       "path": "/"
     },
     {
@@ -461,8 +461,8 @@
       "security": "tls",
       "fp": "random",
       "type": "ws",
-      "host": "kr.fless.workers.dev",
-      "sni": "kr.fless.workers.dev",
+      "host": "kr.fless.pages.dev",
+      "sni": "kr.fless.pages.dev",
       "path": "/"
     },
     {
