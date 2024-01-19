@@ -196,6 +196,21 @@
       "path": "/"
     },
     {
+      "remarks": "Vultr",
+      "country": "SG",
+      "flag": "🇸🇬",
+      "address": "beacon.liveon.id",
+      "port": 443,
+      "uuid": "37c56150-20e1-4090-815e-6733ed1813e7",
+      "encryption": "none",
+      "security": "tls",
+      "fp": "random",
+      "type": "ws",
+      "host": "sgx30.pages.dev",
+      "sni": "sgx30.pages.dev",
+      "path": "/"
+    },
+    {
       "remarks": "Random",
       "country": "ID",
       "flag": "🇮🇩",
