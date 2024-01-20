@@ -311,8 +311,8 @@
       "security": "tls",
       "fp": "random",
       "type": "ws",
-      "host": "jpx1.pages.dev",
-      "sni": "jpx1.pages.dev",
+      "host": "jpx1.nope.cloudns.biz",
+      "sni": "jpx1.nope.cloudns.biz",
       "path": "/"
     },
     {
