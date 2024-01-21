@@ -311,8 +311,8 @@
       "security": "tls",
       "fp": "random",
       "type": "ws",
-      "host": "jpx1.nope.cloudns.biz",
-      "sni": "jpx1.nope.cloudns.biz",
+      "host": "jpx1.kang-turu.cloudns.org",
+      "sni": "jpx1.kang-turu.cloudns.org",
       "path": "/"
     },
     {
@@ -356,8 +356,8 @@
       "security": "tls",
       "fp": "random",
       "type": "ws",
-      "host": "jpx6.pages.dev",
-      "sni": "jpx6.pages.dev",
+      "host": "jpx6.kang-turu.cloudns.org",
+      "sni": "jpx6.kang-turu.cloudns.org",
       "path": "/"
     },
     {
@@ -401,8 +401,8 @@
       "security": "tls",
       "fp": "random",
       "type": "ws",
-      "host": "jpx12.pages.dev",
-      "sni": "jpx12.pages.dev",
+      "host": "jpx12.kang-turu.cloudns.org",
+      "sni": "jpx12.kang-turu.cloudns.org",
       "path": "/"
     },
     {
