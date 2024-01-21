@@ -120,7 +120,7 @@ async function handleRequest(req: Request) {
         country,
         remarks,
       } = cfvlessConfig.cfvless[i];
-      const encryptionType = tlsPorts.includes(port) ? "NTLS" : "TLS";
+      const encryptionType = tlsPorts.includes(port) ? "TLS" : "NTLS";
       let vless = `vless://${uuid}@${address}:${port}?encryption=${encryption}&security=${
         tlsPorts.includes(port) ? security : "none"
       }${tlsPorts.includes(port) ? "&fp=" + fp : ""}&type=${type}&host=${host}${tlsPorts.includes(port) ? "&sni=" + sni : ""}&path=${encodeURIComponent(
