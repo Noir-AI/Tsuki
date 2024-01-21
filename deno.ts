@@ -31,7 +31,7 @@ async function handleRequest(req: Request) {
   const servers = url.searchParams.get("server")?.split(",");
   const exclude = parseInt(url.searchParams.get("exclude") || "0");
   const limit = parseInt(url.searchParams.get("limit") || "100");
-  const encryptionType = tlsPorts.includes(port) ? "NTLS" : "TLS";
+  
   const tlsPorts = [443, 2053, 2083, 2087, 2096, 8443];
   const nonTlsPorts = [80, 8080, 8880, 2052, 2082, 2086, 2095];
   const allowedPorts = new Set([...tlsPorts, ...nonTlsPorts]);
@@ -120,6 +120,7 @@ async function handleRequest(req: Request) {
         country,
         remarks,
       } = cfvlessConfig.cfvless[i];
+      const encryptionType = tlsPorts.includes(port) ? "NTLS" : "TLS";
       let vless = `vless://${uuid}@${address}:${port}?encryption=${encryption}&security=${
         tlsPorts.includes(port) ? security : "none"
       }${tlsPorts.includes(port) ? "&fp=" + fp : ""}&type=${type}&host=${host}${tlsPorts.includes(port) ? "&sni=" + sni : ""}&path=${encodeURIComponent(
