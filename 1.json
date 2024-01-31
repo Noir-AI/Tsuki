@@ -386,8 +386,8 @@
       "security": "tls",
       "fp": "random",
       "type": "ws",
-      "host": "jpx11.pages.dev",
-      "sni": "jpx11.pages.dev",
+      "host": "jpx11.next-sync.dedyn.io",
+      "sni": "jpx11.next-sync.dedyn.io",
       "path": "/"
     },
     {
