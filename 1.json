@@ -311,8 +311,8 @@
       "security": "tls",
       "fp": "random",
       "type": "ws",
-      "host": "jpx1.kang-turu.cloudns.org",
-      "sni": "jpx1.kang-turu.cloudns.org",
+      "host": "jpx1.next-sync.dedyn.io",
+      "sni": "jpx1.next-sync.dedyn.io",
       "path": "/"
     },
     {
@@ -356,8 +356,8 @@
       "security": "tls",
       "fp": "random",
       "type": "ws",
-      "host": "jpx6.kang-turu.cloudns.org",
-      "sni": "jpx6.kang-turu.cloudns.org",
+      "host": "jpx6.next-sync.dedyn.io",
+      "sni": "jpx6.next-sync.dedyn.io",
       "path": "/"
     },
     {
@@ -401,8 +401,8 @@
       "security": "tls",
       "fp": "random",
       "type": "ws",
-      "host": "jpx12.kang-turu.cloudns.org",
-      "sni": "jpx12.kang-turu.cloudns.org",
+      "host": "jpx12.next-sync.dedyn.io",
+      "sni": "jpx12.next-sync.dedyn.io",
       "path": "/"
     },
     {
